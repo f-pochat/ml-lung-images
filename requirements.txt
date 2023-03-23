@@ -1,0 +1,10 @@
+h5py
+numpy
+opencv-python
+pandas
+scikit-learn
+scipy
+tensorflow
+Pillow
+scikit-image
+imgaug
